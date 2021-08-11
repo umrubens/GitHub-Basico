@@ -8,8 +8,8 @@ O GitHub é uma plataforma para hospedagem e controle de versão de código util
 Ok, vamos lá!
 Vamos seguir do princípio que você criou sua conta no Git, criou o seu repositório e realizou download Git para desktop, instalando o mesmo em seu computador. 
 
-# Para inicializa um novo repositório digite o seguinte comando no terminal do Git “Git Bash Here”. Dentro da pasta do seu projeto no desktop.
-  git init
+Para inicializa um novo repositório digite o seguinte comando no terminal do Git “Git Bash Here”. Dentro da pasta do seu projeto no desktop.
+#  git init
 ![alt text](https://github.com/umrubens/GitHub-Basico/blob/master/PNG/1.PNG)
 
 Será criado uma estrutura básica do repositório com nome “.git” por padrão a mesma ficara oculta e não poderá ser excluída o editada, caso aconteça algo semelhante apresentara problemas no seu projeto.   
